@@ -1,5 +1,5 @@
-# Application Name: Micro Ball
-# Not Published on iOS App Store
+# Application Name: Micro Ball 
+Not Published on iOS App Store
 
 # Key technologies used:
 # ARKit, Segues, UI Animations
